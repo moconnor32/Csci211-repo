@@ -1,2 +1,6 @@
-# starter-repo
-Starter repo for CSCI211
+ ## Mario O'Connor
+
+ *Spring 2026*
+
+ * Github useername: moconnor32
+ * Chico State username: moconnor3
