@@ -2,5 +2,5 @@
 
  *Spring 2026*
 
- * Github useername: moconnor32
+ * Github username: moconnor32
  * Chico State username: moconnor3
